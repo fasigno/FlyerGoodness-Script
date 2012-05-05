@@ -2,7 +2,7 @@ FlyerGoodness-Script
 ====================
 
 Downloads all the flyers on flyergoodness.blogspot.it
-_____
+--
 
 Simple qt program that downloads all the flyers periodically posted on flyergoodness.blogspot.it
 
